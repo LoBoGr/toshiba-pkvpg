@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: toshiba-pkvpg
+Version: 0.1.0
+Summary: Reverse engineering and Home Assistant integration for Toshiba RAS-M10PKVPG-E
+Requires-Python: >=3.11
