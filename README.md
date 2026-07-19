@@ -15,5 +15,3 @@ Current focus:
 
 Development is being done collaboratively in a persistent ChatGPT conversation.
 
-Chat URL:
-https://chatgpt.com/c/6a5ce658-da50-83eb-b7a8-6b5e41e90141
